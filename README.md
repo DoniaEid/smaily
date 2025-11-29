@@ -1,4 +1,4 @@
-# 😁 Smaily Dental Clinic
+# Smaily Dental Clinic
 
 Modern dental website with booking system and customer testimonials.
 
@@ -12,9 +12,7 @@ Modern dental website with booking system and customer testimonials.
   - Cosmetic
   - Orthodontics
   - Teeth Whitening
-- 🌙 **Dark Mode Support**
 
----
 
 ## 🛠 Technologies
 - HTML
